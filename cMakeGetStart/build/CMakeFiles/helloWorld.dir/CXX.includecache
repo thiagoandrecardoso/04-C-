@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/Pet.cpp
+Pet.h
+/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/Pet.h
+iostream
+-
+
+/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/Pet.h
+string
+-
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -o CMakeFiles/helloWorld.dir/main.cpp.o -c \"/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/main.cpp\"",
+  "file": "/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/main.cpp"
+},
+{
+  "directory": "/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -o CMakeFiles/helloWorld.dir/Pet.cpp.o -c \"/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/Pet.cpp\"",
+  "file": "/Users/thiagocardoso/Documents/01 Git/04 C++/cMakeGetStart/Pet.cpp"
+}
+]
